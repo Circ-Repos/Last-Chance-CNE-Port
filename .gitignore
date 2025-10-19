@@ -10,6 +10,9 @@ export/*
 .vscode/*
 .haxelib/
 .github/
+ew psych events/*
+ew psych scritps/*
+ew psych stages/*
 *.code-workspace
 vs_Community.exe
 # Local history which shouldn't be shared.

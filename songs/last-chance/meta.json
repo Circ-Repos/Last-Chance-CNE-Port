@@ -1,14 +1,14 @@
 {
+	"customValues": {},
+	"color": "#000000",
 	"opponentModeAllowed": false,
 	"icon": "face",
 	"difficulties": [
-		"events",
-		"last-chance"
+		"hard"
 	],
-	"color": "#000000",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
-	"displayName": "last-chance",
+	"displayName": "Last Chance (V8)",
 	"beatsPerMeasure": 4,
 	"needsVoices": true,
 	"bpm": 140

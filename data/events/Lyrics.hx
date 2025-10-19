@@ -46,6 +46,8 @@ function onEvent(event)
     {
 		lyrics.alpha = 1;
 		lyrics.text = value1;
+		lyrics.updateHitbox();
+
     }
 	switch(value2){
 		default:
@@ -54,10 +56,12 @@ function onEvent(event)
 		case 'mid':
 			shakeTween.cancel();
 			lyrics.screenCenter();
+			lyrics.updateHitbox();
 			lyrics.setFormat(Paths.font("sth.ttf"), 72, FlxColor.RED, FlxTextAlign.center);
 			mid = true;
 		case 'shake':
 			lyrics.screenCenter(FlxAxes.X);
+			lyrics.updateHitbox();
 			shakeTween.start();
 			mid = false;
 		case 'shakemid':
