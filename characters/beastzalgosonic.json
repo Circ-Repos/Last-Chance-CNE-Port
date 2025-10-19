@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "beastzalgosonic left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "beastzalgosonic down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "beastzalgosonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "beastzalgosonic up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "beastzalgosonic right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/last-chance/beastzalgosonic",
+	"position": [
+		-18,
+		-23
+	],
+	"healthicon": "beastzalgosonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		0,
+		0
+	],
+	"camera_position": [
+		-154,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

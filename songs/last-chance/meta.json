@@ -1,0 +1,15 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"events",
+		"last-chance"
+	],
+	"color": "#000000",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "last-chance",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 140
+}

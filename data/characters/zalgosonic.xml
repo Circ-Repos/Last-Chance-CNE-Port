@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="last-chance/zalgosonic" icon="face" color="#b40000" x="23" y="22" antialiasing="false" camx="-155" camy="90">
+	<anim name="idle" anim="zalgosonic idle" x="-5" y="0" fps="12"/>
+	<anim name="singLEFT" anim="zalgosonic left0" x="-8" y="0" fps="12"/>
+	<anim name="singDOWN" anim="zalgosonic down0" x="-8" y="0" fps="12"/>
+	<anim name="singUP" anim="zalgosonic up0" x="-6" y="0" fps="12"/>
+	<anim name="singRIGHT" anim="zalgosonic right0" x="-4" y="0" fps="12"/>
+	<anim name="singLEFT-alt" anim="zalgosonic altleft0" x="-8" y="5" fps="12"/>
+	<anim name="singUP-alt" anim="zalgosonic altup0" x="-9" y="5" fps="12"/>
+	<anim name="singRIGHT-alt" anim="zalgosonic altright0" x="-10" y="5" fps="12"/>
+	<anim name="singDOWN-alt" anim="zalgosonic altdown0" x="-5" y="5" fps="12"/>
+</character>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sunshineeggman.png" width="237" height="237">
+  <SubTexture name="down0000.png" x="0" y="0"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="down0001.png" x="51" y="0"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="down0002.png" x="102" y="0"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="down0003.png" x="153" y="0"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="idle0000.png" x="0" y="45" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="idle0001.png" x="0" y="96" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="idle0002.png" x="0" y="147" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="idle0003.png" x="45" y="45"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="idle0004.png" x="96" y="45"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="left0000.png" x="147" y="45"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="left0001.png" x="45" y="90" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="left0002.png" x="45" y="141" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="left0003.png" x="45" y="192"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="right0000.png" x="90" y="90" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="right0001.png" x="90" y="141" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="right0002.png" x="96" y="192"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="right0003.png" x="147" y="90"  width="51" height="45" frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="up0000.png" x="135" y="135" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="up0001.png" x="147" y="186" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="up0002.png" x="180" y="135" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+  <SubTexture name="up0003.png" x="192" y="186" width="45" height="51" rotated="true"  frameX="-0" frameY="-0" frameWidth="51" frameHeight="45"/>
+</TextureAtlas>

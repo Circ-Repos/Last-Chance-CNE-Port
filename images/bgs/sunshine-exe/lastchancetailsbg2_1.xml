@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lastchancetailsbg2_1.png">
+<SubTexture name="lastchancetailsbg3 1 loop0000" x="0" y="0" width="1059" height="280" frameX="0" frameY="0" frameWidth="1059" frameHeight="280" />
+<SubTexture name="lastchancetailsbg3 1 loop0001" x="0" y="280" width="1059" height="280" frameX="0" frameY="0" frameWidth="1059" frameHeight="280" />
+<SubTexture name="lastchancetailsbg3 1 loop0002" x="0" y="560" width="1059" height="280" frameX="0" frameY="0" frameWidth="1059" frameHeight="280" />
+</TextureAtlas>

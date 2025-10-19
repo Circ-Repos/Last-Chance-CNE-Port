@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="30" y="30" sprite="last-chance/sunshineeggman" antialiasing="false" camx="45" camy="85" isPlayer="true" icon="face" color="#C33C00">
+	<anim name="idle" anim="idle" x="-5" y="2" fps="12"/>
+	<anim name="singLEFT" anim="right" x="-5" y="2" fps="12"/>
+	<anim name="singDOWN" anim="down" x="-5" y="2" fps="12"/>
+	<anim name="singUP" anim="up" x="-5" y="2" fps="12"/>
+	<anim name="singRIGHT" anim="left" x="-5" y="2" fps="12"/>
+</character>

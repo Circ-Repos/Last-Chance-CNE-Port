@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="last-chance/Sunshine_EXE" icon="face" color="#af0000" x="-200" y="-50" camx="-270" camy="-150" scale="1.6">
+	<anim name="idle" anim="idle" x="-3.125" y="0"/>
+	<anim name="singLEFT" anim="left0" x="83.125" y="0"/>
+	<anim name="singDOWN" anim="down0" x="35" y="-42.5"/>
+	<anim name="singUP" anim="up0" x="18.75" y="56.875"/>
+	<anim name="singRIGHT" anim="right0" x="37.5" y="6.875"/>
+</character>

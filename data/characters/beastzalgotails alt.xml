@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="sunshine-exe/beastzalgotails2" icon="face" color="#af0000" x="22.25" y="-24" antialiasing="false" camx="-245" camy="105" holdTime="9">
+	<anim name="idle" anim="beastzalgotails2 idle" fps="12" loop="true"/>
+	<anim name="singLEFT" anim="beastzalgotails2 left" x="30" y="5" fps="12"/>
+	<anim name="singDOWN" anim="beastzalgotails2 down" x="30" y="5" fps="12"/>
+	<anim name="singUP" anim="beastzalgotails2 up" x="30" y="5" fps="12"/>
+	<anim name="singRIGHT" anim="beastzalgotails2 right" x="30" y="5" fps="12"/>
+</character>

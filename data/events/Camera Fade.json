@@ -1,0 +1,19 @@
+{
+	"params": [
+		{
+			"name": "Tween Fade?",
+			"type": "Bool",
+			"defaultValue": true
+		},
+		{
+			"name": "Fade Time (if tween)",
+			"type": "Int(0, 999999, 1)",
+			"defaultValue": 0
+		},
+        {
+            "name": "Fade Out?",
+			"type": "Bool",
+			"defaultValue": true
+        }
+	]
+}

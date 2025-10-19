@@ -1,0 +1,25 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="bgs/sunshine-exe/" name="last-change-pixel" zoom="5.5">
+	<use-extension script="Spixel"/>
+
+	<sprite antialiasing="false" x="140" scroll="0" sprite="last-chance/anim2" y="-160" type="none" alpha="0" scale="1.5" name="zalgoAnim2"/>
+	<sprite type="none" antialiasing="false" sprite="last-chance/poemAnim" alpha="0" name="zalgoAnim1"/>
+	<sprite antialiasing="false" alpha="0" x="-250" scroll="0.5" sprite="lastchancetailsbg3_1" y="-180" type="none" name="room"/>
+	<sprite antialiasing="false" x="230" scroll="0.5" sprite="lastchancetailsbg5_1" y="-23" type="none" alpha="0" name="skyFinal"/>
+
+	<sprite antialiasing="false" x="-57" sprite="lastchancetailsbg2_1" y="5" scrollx="0.5" alpha="0" name="skyZalgo"/>
+	<sprite x="-300" sprite="lastchancetailsbg4_4" y="-243" type="none" scrollx="1.5" alpha="0" name="skyZalgo2Shadows"/>
+	<sprite antialiasing="false" x="-50" scroll="0.5" sprite="lastchancetailsbg4_1" y="-143" type="none" alpha="0" name="skyZalgo2"/>
+	<sprite antialiasing="false" x="-57" sprite="lastchancetailsbg1_1" y="5" scrollx="0.5" name="skyFaker"/>
+	<sprite antialiasing="false" x="-100" sprite="lastchancetailsbg2_2" y="5" alpha="0" name="groundZalgo"/>
+	<sprite antialiasing="false" x="-100" sprite="lastchancetailsbg4_2" y="-243" type="none" alpha="0" name="groundZalgo2"/>
+	<sprite antialiasing="false" x="-100" sprite="lastchancetailsbg1_2" y="-246" name="groundFaker"/>
+	<sprite antialiasing="false" x="-100" sprite="lastchancetailsbg1_3" y="95" alpha="0" type="none" name="groundFaker2"/>
+	<girlfriend alpha="0.01" x="150" scroll="1"/>
+	<dad x="190" y="100" spacingx="0"/>
+	<sprite antialiasing="false" x="190" sprite="lastchancetailsbg5_2" y="-183" type="none" alpha="0" name="groundFinal"/>
+	<high-memory>
+		<sprite x="160" scroll="1.5" sprite="lastchancetailsbg5_3" y="-353" type="none" alpha="0" name="cloudsFinal"/>
+	</high-memory>
+	<boyfriend x="10" y="100" spacingx="0"/>
+</stage>

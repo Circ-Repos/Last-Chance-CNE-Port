@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="20" y="33" sprite="last-chance/sunshinesonic" antialiasing="false" flipX="true" camx="85" camy="75" isPlayer="true" icon="face" color="#0050FF">
+	<anim name="idle" anim="sunshinesonic idle" x="-5" y="1" fps="12"/>
+	<anim name="singLEFT" anim="sunshinesonic left0" x="-5" y="1" fps="12"/>
+	<anim name="singDOWN" anim="sunshinesonic down0" x="-7" y="1" fps="12"/>
+	<anim name="singUP" anim="sunshinesonic up0" x="-2" y="1" fps="12"/>
+	<anim name="singRIGHT" anim="sunshinesonic right0" x="-3" y="1" fps="12"/>
+	<anim name="singLEFTmiss" anim="sunshinesonic mleft0" x="-5" y="1" fps="12"/>
+	<anim name="singDOWNmiss" anim="sunshinesonic mdown0" x="-6" y="1" fps="12"/>
+	<anim name="singUPmiss" anim="sunshinesonic mup0" x="-2" y="1" fps="12"/>
+	<anim name="singRIGHTmiss" anim="sunshinesonic mright0" x="-3" y="1" fps="12"/>
+</character>

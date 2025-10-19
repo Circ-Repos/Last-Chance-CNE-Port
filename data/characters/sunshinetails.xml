@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="10" y="30" sprite="last-chance/sunshinetails" antialiasing="false" flipX="true" camx="134.5" camy="90" isPlayer="true" icon="face" color="#FF8C00">
+	<anim name="idle" anim="sunshinetails idle" x="-5" y="1" fps="12"/>
+	<anim name="singLEFT" anim="sunshinetails left0" x="-5" y="1" fps="12"/>
+	<anim name="singDOWN" anim="sunshinetails down0" x="-5" y="1" fps="12"/>
+	<anim name="singUP" anim="sunshinetails up0" x="-6" y="1" fps="12"/>
+	<anim name="singRIGHT" anim="sunshinetails right0" x="-5" y="1" fps="12"/>
+	<anim name="singLEFTmiss" anim="sunshinetails mleft0" x="-5" y="1" fps="12"/>
+	<anim name="singDOWNmiss" anim="sunshinetails mdown0" x="-6" y="1" fps="12"/>
+	<anim name="singUPmiss" anim="sunshinetails mup0" x="-5" y="1" fps="12"/>
+	<anim name="singRIGHTmiss" anim="sunshinetails mright0" x="-4" y="1" fps="12"/>
+</character>

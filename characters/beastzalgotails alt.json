@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "beastzalgotails2 idle"
+		},
+		{
+			"offsets": [
+				30,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beastzalgotails2 left"
+		},
+		{
+			"offsets": [
+				30,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beastzalgotails2 down"
+		},
+		{
+			"offsets": [
+				30,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beastzalgotails2 up"
+		},
+		{
+			"offsets": [
+				30,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beastzalgotails2 right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sunshine-exe/beastzalgotails2",
+	"position": [
+		22.25,
+		-24
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		0,
+		0
+	],
+	"camera_position": [
+		-245,
+		105
+	],
+	"sing_duration": 9,
+	"scale": 1
+}

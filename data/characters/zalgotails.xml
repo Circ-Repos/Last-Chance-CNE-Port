@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="last-chance/zalgotails" icon="zalgotails" color="#af0000" x="-5" antialiasing="false" camx="-167" camy="81">
+	<anim name="singLEFT" anim="zalgotails left0" fps="12"/>
+	<anim name="singDOWN" anim="zalgotails down0" x="-8" y="0" fps="12"/>
+	<anim name="singUP" anim="zalgotails up0" x="-6" y="0" fps="12"/>
+	<anim name="singRIGHT" anim="zalgotails right0" x="-4" y="0" fps="12"/>
+	<anim name="singLEFT-alt" anim="zalgotails altleft0" x="-6" y="0" fps="12"/>
+	<anim name="singUP-alt" anim="zalgotails altup0" x="-5" y="0" fps="12"/>
+	<anim name="singRIGHT-alt" anim="zalgotails altright0" x="-4" y="0" fps="12"/>
+	<anim name="singDOWN-alt" anim="zalgotails altdown0" x="-6" y="0" fps="12"/>
+	<anim name="idle" anim="zalgotails idle" x="-5" y="0" fps="12" indices="0..5"/>
+</character>

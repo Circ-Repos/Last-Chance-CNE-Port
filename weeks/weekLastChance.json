@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"last-chance",
+			"none",
+			[
+				129,
+				129,
+				129
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+    "difficulties": "Normal",
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Your Custom Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
